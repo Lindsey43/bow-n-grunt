@@ -1,0 +1,84 @@
+body { 
+    padding-top: 50px;
+    background:  #a0b0ad;
+}
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%; }
+
+.footer-content {
+  min-height: 100%;
+  background-color:  #c4d551; }
+
+.list {
+  padding-top: 44px;
+  padding-bottom: 10px;
+  text-align: right; }
+
+.list-unstyled li {
+  padding: 2px 0; }
+
+h3 {
+  margin-bottom: 20px; }
+
+@media only screen and (max-width: 1027px) {
+  .footer h3 {
+    margin-bottom: 20px; }
+  .footer .info {
+    margin: 27px auto 10px -15px; }
+  .footer .row {
+    margin-bottom: 20px; }
+  .footer .list {
+    text-align: center; }
+    .footer .list li {
+      float: left;
+      margin-right: 20px; }
+  .footer .para {
+    float: none; } }
+
+
+h1 {
+    padding-bottom: 20px; 
+    text-align: center;
+    min-height: 100%;
+    padding: 20px;
+}
+h2{
+    
+  padding-bottom: 10px; 
+    text-align: center;
+    min-height: 100%;
+    padding: 10px;  
+}
+
+.label-default {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin: 50px auto 40px;
+  width: 100px; }
+
+.content{
+    align-content: center;
+}
+.navbar-brand{
+    background-color: #c4d551;
+}
+
+.navbar-right{
+    background-color:#c4d551;
+}
+btn-default{
+align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin: 50px auto 40px;
+  width: 100px; }
+}
+
+
